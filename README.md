@@ -40,6 +40,6 @@ The code is like a web page, with some html and the /js folder where is the code
 
 Some notes about the code:
 
-The program uses IndexedDB web-browser based database system to save the data, and as mentionen in features it can export data to a file (in Json format).
+The program uses IndexedDB web-browser based database system to save the data, and as mentioned in features it can export data to a file (in Json format).
 
 Program uses various libraries, that are specified in the info options of the program.
